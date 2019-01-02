@@ -1,0 +1,10 @@
+<script>
+	var triggerMessage = function () {
+		var event = new Event('closeTabMessage');
+		document.body.dispatchEvent(event);
+	};
+</script>
+
+
+<a href="javascript:triggerMessage();">send message</a>
+
