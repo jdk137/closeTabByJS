@@ -6,7 +6,7 @@ chrome extension to close tab by javascript.
 
 [github link](https://github.com/jdk137/closeTabByJS)
 
-Javacript can not close page in recent version chrome, because it's not safe. But we can close in with this extension installed.
+Javacript can not close page in recent version chrome, because it's not safe. But we can close with this extension installed.
 
 ## Usage:
 ```js
