@@ -18,7 +18,7 @@ Javacript can not close page in recent version chrome, because it's not safe. Bu
 Run this  function in javascript, you can close chrome tab now.  
 
 
-## warning: 
+## Warning: 
 This extension can only work in  http(s)://localhost or 127.0.0.1,  to show some local demo. But you can edit manifest.json to enlarge it's premission.
 Extension sourcecode is in closeTab file.
 ```js
